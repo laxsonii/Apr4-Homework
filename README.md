@@ -4,3 +4,8 @@ Added "Alt-tex" for images
 reformatting of font-size to be readable
 fixing color contrast
 Applied Semantic format
+screenshot
+
+
+link to homework
+https://laxsonii.github.io/Apr4-Homework/
